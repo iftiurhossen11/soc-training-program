@@ -3,7 +3,6 @@
   <p><strong>A Comprehensive Hands-On Journey into Security Operations, Threat Detection & Incident Response</strong></p>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://iftiurhossen11.github.io/iftiurhossenriyad.github.io/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iftiurhossen11/)
 </div>
 
 ---
@@ -103,7 +102,6 @@ To balance my university studies and my startup, I am following the **Standard T
 I am always open to discussions regarding cybersecurity, SOC operations, threat hunting, or potential internship opportunities.
 
 - 🌐 **Website:** [iftiurhossen11.github.io](https://iftiurhossen11.github.io/iftiurhossenriyad.github.io/)
-- 💼 **LinkedIn:** [Md Iftiur Hossen Riyad](https://www.linkedin.com/in/iftiurhossen11/)
 - 📧 **Email:** mdiftiurhossenriyad@gmail.com
 - 🏢 **Startup:** MyGenie (AI-Powered Assistant)
 
