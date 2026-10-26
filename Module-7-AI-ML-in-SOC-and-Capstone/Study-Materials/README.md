@@ -2,7 +2,7 @@
 
 This folder contains research papers, articles, and study resources related to the application of AI/ML in cybersecurity and SOC operations.
 
-## 📚 Topics Covered in this Module
+## 📚 Comprehensive Study Topics
 
 ### 1. Machine Learning Algorithms for Security
 - **Decision Trees & Random Forests:** Used for malware classification.
