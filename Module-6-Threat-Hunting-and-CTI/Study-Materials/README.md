@@ -2,15 +2,17 @@
 
 This folder contains resources, hunting queries, and CTI frameworks used to proactively search for threats.
 
-## 📚 Topics Covered in this Module
+## 📚 Comprehensive Study Topics
 
 ### 1. MITRE ATT&CK Framework (Deep Dive)
 - Understanding the 14 Tactics (e.g., Reconnaissance, Execution, Persistence).
 - Mapping specific APT (Advanced Persistent Threat) groups to techniques.
+- Using the MITRE ATT&CK Navigator to visualize coverage.
 
 ### 2. Hypothesis-Driven Hunting
-- How to use the "Pyramid of Pain" (by David Bianco) to focus on TTPs rather than just IP addresses/hashes.
+- How to use the "Pyramid of Pain" to focus on TTPs rather than just IP addresses/hashes.
 - Creating hunting hypotheses based on recent CVEs or industry news.
+- Documenting the hunt process.
 
 ### 3. Threat Intelligence Lifecycle
 - **Direction:** What do we need to know?
@@ -22,7 +24,10 @@ This folder contains resources, hunting queries, and CTI frameworks used to proa
 ### 4. Threat Hunting Tools
 - **YARA Rules:** Creating rules to identify and classify malware based on textual or binary patterns.
 - **Sigma Rules:** Generic signature format for SIEM systems (write once, use in Splunk, Elastic, etc.).
-- **LOLBAS (Living Off The Land Binaries and Scripts):** Understanding how attackers misuse legitimate Windows tools (e.g., certutil, bitsadmin).
+- **LOLBAS:** Understanding how attackers misuse legitimate Windows tools (e.g., certutil, bitsadmin).
 
----
-*Note: I will add cheat sheets for creating Sigma rules and mapping hunts to MITRE ATT&CK here.*
+### 5. Common Threat Hunting Scenarios
+- Hunting for unusual PowerShell execution.
+- Hunting for unauthorized scheduled tasks.
+- Hunting for lateral movement (e.g., PsExec).
+- Hunting for DNS Tunneling.
