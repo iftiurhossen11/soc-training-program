@@ -34,13 +34,13 @@ This training program is divided into 7 comprehensive modules. Click on any modu
 
 | Module | Title | Key Focus Areas | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [SOC Fundamentals & Home Lab Setup](./Module-1-SOC-Fundamentals) | SOC Tiers, Virtualization, VM Setup, Network Isolation | 🟡 In Progress |
-| **02** | [Network Security & Traffic Analysis](./Module-2-Network-Traffic-Analysis) | OSI Model, Protocols, Wireshark, PCAP Analysis, IoCs | 🟡 In Progress |
-| **03** | [SIEM & Log Management](./Module-3-SIEM-and-Log-Management) | Splunk, SPL, Windows Event Logs, Log Parsing, Alerting | ⚪ Planned |
-| **04** | [Endpoint Security & Malware Analysis](./Module-4-Endpoint-Security-and-Malware-Analysis) | EDR, Static/Dynamic Analysis, FlareVM, Procmon | ⚪ Planned |
-| **05** | [Cloud SOC Monitoring](./Module-5-Cloud-SOC-Monitoring) | AWS CloudTrail, Azure, IAM, Cloud SIEM, S3 Auditing | ⚪ Planned |
-| **06** | [Threat Hunting & CTI](./Module-6-Threat-Hunting-and-CTI) | MITRE ATT&CK, YARA, Sigma Rules, OSINT, Hypothesis Hunting | ⚪ Planned |
-| **07** | [AI/ML in SOC & Capstone Project](./Module-7-AI-ML-in-SOC-and-Capstone) | UEBA, SOAR, Python Automation, Final Capstone Project | ⚪ Planned |
+| **01** | [SOC Fundamentals & Home Lab Setup](./Module-1-SOC-Fundamentals) | SOC Tiers, Virtualization, VM Setup, Network Isolation | ✅ Structure & Notes Complete |
+| **02** | [Network Security & Traffic Analysis](./Module-2-Network-Traffic-Analysis) | OSI Model, Protocols, Wireshark, PCAP Analysis, IoCs | ✅ Structure & Notes Complete |
+| **03** | [SIEM & Log Management](./Module-3-SIEM-and-Log-Management) | Splunk, SPL, Windows Event Logs, Log Parsing, Alerting | ✅ Structure & Notes Complete |
+| **04** | [Endpoint Security & Malware Analysis](./Module-4-Endpoint-Security-and-Malware-Analysis) | EDR, Static/Dynamic Analysis, FlareVM, Procmon | ✅ Structure & Notes Complete |
+| **05** | [Cloud SOC Monitoring](./Module-5-Cloud-SOC-Monitoring) | AWS CloudTrail, Azure, IAM, Cloud SIEM, S3 Auditing | ✅ Structure & Notes Complete |
+| **06** | [Threat Hunting & CTI](./Module-6-Threat-Hunting-and-CTI) | MITRE ATT&CK, YARA, Sigma Rules, OSINT, Hypothesis Hunting | ✅ Structure & Notes Complete |
+| **07** | [AI/ML in SOC & Capstone Project](./Module-7-AI-ML-in-SOC-and-Capstone) | UEBA, SOAR, Python Automation, Final Capstone Project | ✅ Structure & Notes Complete |
 
 *(Status Key: ⚪ Planned | 🟡 In Progress | ✅ Completed)*
 
@@ -87,6 +87,7 @@ To balance my university studies and my startup, I am following the **Standard T
 - [x] Initial Repository Setup & README configuration
 - [x] Created Folder Structures for Modules 1-7
 - [x] Finalized Study Plan & Tooling List
+- [x] **All Modules:** Detailed Notes, Study Materials, and Lab Indexes Created
 - [ ] **Module 1:** Complete Home Lab Setup & Notes
 - [ ] **Module 2:** Complete Network Traffic Analysis & PCAP Labs
 - [ ] **Module 3:** Complete Splunk Installation & Log Analysis Labs
@@ -103,7 +104,7 @@ I am always open to discussions regarding cybersecurity, SOC operations, threat 
 
 - 🌐 **Website:** [iftiurhossen11.github.io](https://iftiurhossen11.github.io/iftiurhossenriyad.github.io/)
 - 📧 **Email:** mdiftiurhossenriyad@gmail.com
-- 🏢 **Startup:** MyGenie (AI-Powered Assistant) https://mygenie-pink.vercel.app
+- 🏢 **Startup:** [MyGenie (AI-Powered Assistant)](https://mygenie-pink.vercel.app)
 
 ---
 <div align="center">
