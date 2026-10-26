@@ -29,65 +29,51 @@ By completing this program, I have successfully achieved the following objective
 - **Network Forensics:** Analyzed malicious traffic and PCAPs to extract Indicators of Compromise (IoCs) using Wireshark and NetworkMiner.
 - **Malware Analysis:** Performed static and dynamic analysis in isolated environments to understand attacker behaviors.
 - **Threat Hunting:** Proactively hunted for advanced threats using the MITRE ATT&CK framework and Cyber Threat Intelligence (CTI).
-- **Automation:** Used Python and the VirusTotal API to automate IoC enrichment, simulating SOAR (Security Orchestration, Automation, and Response) workflows.
+- **Automation:** Used Python and the VirusTotal API to automate IoC enrichment, simulating SOAR workflows.
 
 ---
 
-## 🗂️ Course Roadmap & Lab Highlights
+## 🗂️ Detailed Course Roadmap & Lab Index
 
-This training program was divided into 7 comprehensive modules. Below is a detailed summary of the practical labs completed in each module.
+Below is the complete breakdown of all 7 modules and the specific labs completed in each.
 
-### [Module 1: SOC Fundamentals & Home Lab Setup](./Module-1-SOC-Fundamentals)
+### 🟢 Module 1: SOC Fundamentals & Home Lab Setup
 *   **Status:** ✅ Completed
-*   **Labs Completed:** 
-    1. VirtualBox Installation & Configuration.
-    2. Kali Linux VM Creation & Setup.
-    3. Wazuh SIEM Installation & Basic Verification.
-*   **Key Skills:** Virtualization, Network Isolation, SIEM Deployment, Linux Fundamentals.
+*   **Lab 1:** [VirtualBox Installation & Configuration](./Module-1-SOC-Fundamentals/Labs/Lab-1-VirtualBox-Setup.md)
+*   **Lab 2:** [Kali Linux VM Creation & Configuration](./Module-1-SOC-Fundamentals/Labs/Lab-2-Kali-Linux-Setup.md)
+*   **Lab 3:** [Wazuh SIEM Installation & Basic Verification](./Module-1-SOC-Fundamentals/Labs/Lab-3-Wazuh-SIEM-Setup.md)
 
-### [Module 2: Network Security & Traffic Analysis](./Module-2-Network-Traffic-Analysis)
+### 🟢 Module 2: Network Security & Traffic Analysis
 *   **Status:** ✅ Completed
-*   **Labs Completed:** 
-    1. Wireshark Installation & Interface Familiarization.
-    2. Capturing and Filtering Traffic (DNS & HTTP).
-    3. Analyzing a PCAP File (Simulated Malware Traffic).
-    4. Extracting Artifacts with NetworkMiner.
-*   **Key Skills:** Deep Packet Inspection (DPI), PCAP Analysis, IoC Extraction, Network Forensics.
+*   **Lab 1:** [Wireshark Installation & Interface Familiarization](./Module-2-Network-Traffic-Analysis/Labs/Lab-1-Wireshark-Installation.md)
+*   **Lab 2:** [Capturing and Filtering Traffic (DNS & HTTP)](./Module-2-Network-Traffic-Analysis/Labs/Lab-2-Traffic-Filtering.md)
+*   **Lab 3:** [Analyzing a PCAP File (Simulated Attack)](./Module-2-Network-Traffic-Analysis/Labs/Lab-3-PCAP-Analysis.md)
+*   **Lab 4:** [Extracting Artifacts with NetworkMiner](./Module-2-Network-Traffic-Analysis/Labs/Lab-4-NetworkMiner-Artifacts.md)
 
-### [Module 3: SIEM & Log Management](./Module-3-SIEM-and-Log-Management)
+### 🟢 Module 3: SIEM & Log Management
 *   **Status:** ✅ Completed
-*   **Labs Completed:** 
-    1. Splunk Enterprise Installation.
-    2. Forwarding Linux Logs (`auth.log`) to Splunk.
-    3. Creating Brute Force Detection Alerts in Splunk.
-*   **Key Skills:** Splunk SPL (Search Processing Language), Log Ingestion, Alert Engineering, Windows/Linux Event Logs.
+*   **Lab 1:** [Splunk Installation & Basic Configuration](./Module-3-SIEM-and-Log-Management/Labs/Lab-1-Splunk-Installation.md)
+*   **Lab 2:** [Forwarding Linux Logs to Splunk](./Module-3-SIEM-and-Log-Management/Labs/Lab-2-Linux-Log-Forwarding.md)
+*   **Lab 3:** [Creating Brute Force Detection Alerts](./Module-3-SIEM-and-Log-Management/Labs/Lab-3-Splunk-Alerts.md)
 
-### [Module 4: Endpoint Security & Malware Analysis](./Module-4-Endpoint-Security-and-Malware-Analysis)
+### 🟢 Module 4: Endpoint Security & Malware Analysis
 *   **Status:** ✅ Completed
-*   **Labs Completed:** 
-    1. Static Malware Analysis (VirusTotal & MalwareBazaar).
-    2. Threat Hunting in Splunk (Failed Root Logins).
-    3. Dynamic Analysis (Process & Network Monitoring with `htop`/`netstat`).
-*   **Key Skills:** Malware Triage, IoC Enrichment, System Monitoring, Threat Hunting.
+*   **Lab 1:** [Static Malware Analysis (VirusTotal & MalwareBazaar)](./Module-4-Endpoint-Security-and-Malware-Analysis/Labs/Lab-1-Static-Malware-Analysis.md)
+*   **Lab 2:** [Threat Hunting in Splunk (Failed Root Logins)](./Module-4-Endpoint-Security-and-Malware-Analysis/Labs/Lab-2-Threat-Hunting.md)
+*   **Lab 3:** [Dynamic Analysis (Process & Network Monitoring)](./Module-4-Endpoint-Security-and-Malware-Analysis/Labs/Lab-3-Dynamic-Analysis.md)
 
-### [Module 5: Cloud SOC Monitoring](./Module-5-Cloud-SOC-Monitoring)
+### 🟢 Module 5: Cloud SOC Monitoring
 *   **Status:** ✅ Completed
-*   **Labs Completed:** 
-    1. Ingesting CSE-CIC-IDS2018 Cloud Dataset into Splunk.
-*   **Key Skills:** Cloud Log Analysis, Dataset Ingestion, Handling Large-Scale Data.
+*   **Lab 1:** [Ingesting Cloud Dataset (CSE-CIC-IDS2018) into Splunk](./Module-5-Cloud-SOC-Monitoring/Labs/Lab-1-Cloud-SOC-Monitoring.md)
 
-### [Module 6: Threat Hunting & CTI](./Module-6-Threat-Hunting-and-CTI)
+### 🟢 Module 6: Threat Hunting & CTI
 *   **Status:** ✅ Completed
-*   **Labs Completed:** 
-    1. Threat Hunting with MITRE ATT&CK (Privilege Escalation).
-    2. Threat Intelligence & IoC Enrichment (OSINT using VirusTotal & AlienVault OTX).
-*   **Key Skills:** Hypothesis-Driven Hunting, OSINT, Threat Intelligence, MITRE Mapping.
+*   **Lab 1:** [Threat Hunting with MITRE ATT&CK (Privilege Escalation)](./Module-6-Threat-Hunting-and-CTI/Labs/Lab-1-Threat-Hunting-MITRE.md)
+*   **Lab 2:** [Threat Intelligence & IoC Enrichment (OSINT)](./Module-6-Threat-Hunting-and-CTI/Labs/Lab-2-Threat-Intelligence-Enrichment.md)
 
-### [Module 7: AI/ML in SOC & Capstone Project](./Module-7-AI-ML-in-SOC-and-Capstone)
+### 🟢 Module 7: AI/ML in SOC & Capstone Project
 *   **Status:** ✅ Completed
-*   **Labs Completed:** 
-    1. Python Automation for SOC (VirusTotal API Integration).
-*   **Key Skills:** Python Scripting, API Integration, SOAR Concepts, Automation.
+*   **Lab 1:** [Python Automation for SOC (VirusTotal API)](./Module-7-AI-ML-in-SOC-and-Capstone/Labs/Lab-1-Python-Automation.md)
 
 ---
 
