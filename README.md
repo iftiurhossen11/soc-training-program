@@ -103,7 +103,7 @@ I am always open to discussions regarding cybersecurity, SOC operations, threat 
 
 - 🌐 **Website:** [iftiurhossen11.github.io](https://iftiurhossen11.github.io/iftiurhossenriyad.github.io/)
 - 📧 **Email:** mdiftiurhossenriyad@gmail.com
-- 🏢 **Startup:** MyGenie (AI-Powered Assistant)
+- 🏢 **Startup:** MyGenie (AI-Powered Assistant) https://mygenie-pink.vercel.app
 
 ---
 <div align="center">
