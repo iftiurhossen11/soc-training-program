@@ -243,12 +243,11 @@ flowchart TD
 
 **Network isolation checklist before testing**
 
-- [ ] Review the network adapter of every VM.
-- [ ] Confirm the intended lab subnet and routing.
-- [ ] Use Host-Only networking when a private lab network is required.
-- [ ] Ensure no unintended bridged adapter exposes the lab to the physical LAN.
-- [ ] Verify connectivity between only the systems that need to communicate.
-
+- [x] Review the network adapter of every VM.
+- [x] Confirm the intended lab subnet and routing.
+- [x] Use Host-Only networking when a private lab network is required.
+- [x] Ensure no unintended bridged adapter exposes the lab to the physical LAN.
+- [x] Verify connectivity between only the systems that need to communicate.
 ---
 
 # 📸 Screenshots & Evidence
@@ -325,11 +324,10 @@ Mark each item complete only after verifying it in your environment.
 - [x] Deployed the Kali Linux VM.
 - [x] Deployed the Wazuh virtual appliance.
 - [x] Captured screenshots of the VMs and settings.
-- [ ] Verified that the final VM network configuration matches the intended isolated lab design.
-- [ ] Verified the relevant Wazuh services and dashboard, where configured.
-- [ ] Confirmed that default or temporary credentials have been changed.
-- [ ] Created and verified baseline snapshots.
-
+- [x] Verified that the final VM network configuration matches the intended isolated lab design.
+- [x] Verified the relevant Wazuh services and dashboard, where configured.
+- [x] Confirmed that default or temporary credentials have been changed.
+- [x] Created and verified baseline snapshots.
 ---
 
 ## 🚀 Next Steps
