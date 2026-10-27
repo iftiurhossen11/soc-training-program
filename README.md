@@ -71,6 +71,7 @@ Below is the complete breakdown of all 7 modules and the specific labs completed
 ### 🟢 [Module 7: AI/ML in SOC & Capstone Project](./Module-7-AI-ML-in-SOC-and-Capstone)
 *   **Status:** ✅ Completed
 *   **Lab 1:** [Python Automation for SOC (VirusTotal API)](./Module-7-AI-ML-in-SOC-and-Capstone/Labs/Lab-1-Python-Automation.md)
+*   **🏆 Final Capstone Project:** [Advanced Capstone Project: Automated Threat Detection & Response (Mini SOC)](./Module-7-AI-ML-in-SOC-and-Capstone/Capstone-Project.md)
 
 ---
 
@@ -123,6 +124,7 @@ To balance my university studies and my startup, I followed the **Standard Track
 - [x] **Module 5:** Complete Cloud Log Ingestion Labs ✅
 - [x] **Module 6:** Complete Threat Hunting Simulations ✅
 - [x] **Module 7:** Complete Python Automation Lab ✅
+- [x] **Advanced Capstone Project:** Automated Threat Detection & Response ✅
 
 ---
 
