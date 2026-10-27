@@ -36,12 +36,14 @@ Below is the complete breakdown of all 7 modules and the specific labs completed
 
 ### 🟢 [Module 1: SOC Fundamentals & Home Lab Setup](./Module-1-SOC-Fundamentals)
 *   **Status:** ✅ Completed
+*   **📄 Full Report:** [Module 1 Report](./Module-1-SOC-Fundamentals/Module-1-Report.md)
 *   **Lab 1:** [VirtualBox Installation & Configuration](./Module-1-SOC-Fundamentals/Labs/Lab-1-VirtualBox-Setup.md)
 *   **Lab 2:** [Kali Linux VM Creation & Configuration](./Module-1-SOC-Fundamentals/Labs/Lab-2-Kali-Linux-Setup.md)
 *   **Lab 3:** [Wazuh SIEM Installation & Basic Verification](./Module-1-SOC-Fundamentals/Labs/Lab-3-Wazuh-SIEM-Setup.md)
 
 ### 🟢 [Module 2: Network Security & Traffic Analysis](./Module-2-Network-Traffic-Analysis)
 *   **Status:** ✅ Completed
+*   **📄 Full Report:** [Module 2 Report](./Module-2-Network-Traffic-Analysis/Module-2-Report.md)
 *   **Lab 1:** [Wireshark Installation & Interface Familiarization](./Module-2-Network-Traffic-Analysis/Labs/Lab-1-Wireshark-Installation.md)
 *   **Lab 2:** [Capturing and Filtering Traffic (DNS & HTTP)](./Module-2-Network-Traffic-Analysis/Labs/Lab-2-Traffic-Filtering.md)
 *   **Lab 3:** [Analyzing a PCAP File (Simulated Attack)](./Module-2-Network-Traffic-Analysis/Labs/Lab-3-PCAP-Analysis.md)
@@ -49,27 +51,32 @@ Below is the complete breakdown of all 7 modules and the specific labs completed
 
 ### 🟢 [Module 3: SIEM & Log Management](./Module-3-SIEM-and-Log-Management)
 *   **Status:** ✅ Completed
+*   **📄 Full Report:** [Module 3 Report](./Module-3-SIEM-and-Log-Management/Module-3-Report.md)
 *   **Lab 1:** [Splunk Installation & Basic Configuration](./Module-3-SIEM-and-Log-Management/Labs/Lab-1-Splunk-Installation.md)
 *   **Lab 2:** [Forwarding Linux Logs to Splunk](./Module-3-SIEM-and-Log-Management/Labs/Lab-2-Linux-Log-Forwarding.md)
 *   **Lab 3:** [Creating Brute Force Detection Alerts](./Module-3-SIEM-and-Log-Management/Labs/Lab-3-Splunk-Alerts.md)
 
 ### 🟢 [Module 4: Endpoint Security & Malware Analysis](./Module-4-Endpoint-Security-and-Malware-Analysis)
 *   **Status:** ✅ Completed
+*   **📄 Full Report:** [Module 4 Report](./Module-4-Endpoint-Security-and-Malware-Analysis/Module-4-Report.md)
 *   **Lab 1:** [Static Malware Analysis (VirusTotal & MalwareBazaar)](./Module-4-Endpoint-Security-and-Malware-Analysis/Labs/Lab-1-Static-Malware-Analysis.md)
 *   **Lab 2:** [Threat Hunting in Splunk (Failed Root Logins)](./Module-4-Endpoint-Security-and-Malware-Analysis/Labs/Lab-2-Threat-Hunting.md)
 *   **Lab 3:** [Dynamic Analysis (Process & Network Monitoring)](./Module-4-Endpoint-Security-and-Malware-Analysis/Labs/Lab-3-Dynamic-Analysis.md)
 
 ### 🟢 [Module 5: Cloud SOC Monitoring](./Module-5-Cloud-SOC-Monitoring)
 *   **Status:** ✅ Completed
+*   **📄 Full Report:** [Module 5 Report](./Module-5-Cloud-SOC-Monitoring/Module-5-Report.md)
 *   **Lab 1:** [Ingesting Cloud Dataset (CSE-CIC-IDS2018) into Splunk](./Module-5-Cloud-SOC-Monitoring/Labs/Lab-1-Cloud-SOC-Monitoring.md)
 
 ### 🟢 [Module 6: Threat Hunting & CTI](./Module-6-Threat-Hunting-and-CTI)
 *   **Status:** ✅ Completed
+*   **📄 Full Report:** [Module 6 Report](./Module-6-Threat-Hunting-and-CTI/Module-6-Report.md)
 *   **Lab 1:** [Threat Hunting with MITRE ATT&CK (Privilege Escalation)](./Module-6-Threat-Hunting-and-CTI/Labs/Lab-1-Threat-Hunting-MITRE.md)
 *   **Lab 2:** [Threat Intelligence & IoC Enrichment (OSINT)](./Module-6-Threat-Hunting-and-CTI/Labs/Lab-2-Threat-Intelligence-Enrichment.md)
 
 ### 🟢 [Module 7: AI/ML in SOC & Capstone Project](./Module-7-AI-ML-in-SOC-and-Capstone)
 *   **Status:** ✅ Completed
+*   **📄 Full Report:** [Module 7 Report](./Module-7-AI-ML-in-SOC-and-Capstone/Module-7-Report.md)
 *   **Lab 1:** [Python Automation for SOC (VirusTotal API)](./Module-7-AI-ML-in-SOC-and-Capstone/Labs/Lab-1-Python-Automation.md)
 *   **🏆 Final Capstone Project:** [Advanced Capstone Project: Automated Threat Detection & Response (Mini SOC)](./Module-7-AI-ML-in-SOC-and-Capstone/Capstone-Project.md)
 
@@ -117,23 +124,23 @@ To balance my university studies and my startup, I followed the **Standard Track
 - [x] Created Folder Structures for Modules 1-7 ✅
 - [x] Finalized Study Plan & Tooling List ✅
 - [x] **All Modules:** Detailed Notes, Study Materials, and Lab Indexes Created ✅
-- [x] **Module 1:** Complete Home Lab Setup & Notes ✅
-- [x] **Module 2:** Complete Network Traffic Analysis & PCAP Labs ✅
-- [x] **Module 3:** Complete Splunk Installation & Log Analysis Labs ✅
-- [x] **Module 4:** Complete Static/Dynamic Malware Analysis ✅
-- [x] **Module 5:** Complete Cloud Log Ingestion Labs ✅
-- [x] **Module 6:** Complete Threat Hunting Simulations ✅
-- [x] **Module 7:** Complete Python Automation Lab ✅
+- [x] **Module 1:** Complete Home Lab Setup & Full Report ✅
+- [x] **Module 2:** Complete Network Traffic Analysis & Full Report ✅
+- [x] **Module 3:** Complete Splunk Installation & Full Report ✅
+- [x] **Module 4:** Complete Static/Dynamic Malware Analysis & Full Report ✅
+- [x] **Module 5:** Complete Cloud Log Ingestion & Full Report ✅
+- [x] **Module 6:** Complete Threat Hunting Simulations & Full Report ✅
+- [x] **Module 7:** Complete Python Automation & Full Report ✅
 - [x] **Advanced Capstone Project:** Automated Threat Detection & Response ✅
 
 ---
 
 ## 💡 Key Learnings & Takeaways
 
-1. **The Power of Logs:** Every attack leaves a trace. Understanding how to read and query logs in a SIEM is the most critical skill for a SOC analyst.
-2. **Context is King:** An IP address or a hash means nothing without context. Threat Intelligence (CTI) and OSINT tools are essential for enriching alerts.
-3. **Proactive Defense:** Waiting for alerts is not enough. Threat Hunting allows us to find the attackers who have bypassed automated defenses.
-4. **Automation is the Future:** As alert volumes grow, automating repetitive tasks using Python and SOAR platforms is the only way to scale SOC operations.
+1.  **The Power of Logs:** Every attack leaves a trace. Understanding how to read and query logs in a SIEM is the most critical skill for a SOC analyst.
+2.  **Context is King:** An IP address or a hash means nothing without context. Threat Intelligence (CTI) and OSINT tools are essential for enriching alerts.
+3.  **Proactive Defense:** Waiting for alerts is not enough. Threat Hunting allows us to find the attackers who have bypassed automated defenses.
+4.  **Automation is the Future:** As alert volumes grow, automating repetitive tasks using Python and SOAR platforms is the only way to scale SOC operations.
 
 ---
 
